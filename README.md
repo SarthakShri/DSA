@@ -3,7 +3,7 @@ This is a repo that I made for my DSA revision and notes.
 
 Topics Covered till now:
 
-#Basics
+# Basics
 1. Variables
 2. Conditional Statements
 3. Loops
