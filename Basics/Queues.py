@@ -1,4 +1,4 @@
-# Queues (double ended queue)
+# Queues (double-ended queue)
 from collections import deque
 
 queue = deque()
